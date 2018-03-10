@@ -1,7 +1,5 @@
 # demoPackages
-Demo Packages in Python
-
-A collection of demo packages for python:
+A collection of python demo packages using .py and C code:
 
 ### simplepypkg:
 * Contains sample function $demoprint()$ for testing.
